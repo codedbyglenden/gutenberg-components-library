@@ -1,0 +1,29 @@
+{
+	"scripts": {
+		"build": "node build.js",
+		"deploy": "gh-pages -d dist"
+	},
+	"dependencies": {
+		"@babel/core": "^7.26.10",
+		"@babel/preset-env": "^7.26.9",
+		"@babel/preset-react": "^7.26.3",
+		"@babel/preset-typescript": "^7.26.0",
+		"@types/react": "^19.0.12",
+		"cssnano": "^7.0.6",
+		"gh-pages": "^6.3.0",
+		"postcss": "^8.5.3",
+		"postcss-cli": "^11.0.1",
+		"react": "^19.0.0",
+		"react-dom": "^19.0.0",
+		"sass": "^1.86.0",
+		"typescript": "^5.8.2"
+	},
+	"name": "gutenberg-components-lib",
+	"version": "1.0.0",
+	"main": "build.js",
+	"devDependencies": {},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"description": ""
+}

@@ -1,0 +1,25 @@
+{
+	"name": "hero",
+	"title": "Hero Section",
+	"category": "layout",
+	"icon": "cover-image",
+	"description": "A full-width hero section with title, subtitle and background image",
+	"keywords": ["hero", "banner", "header"],
+	"attributes": {
+		"title": {
+			"type": "string",
+			"default": "Welcome to our website"
+		},
+		"subtitle": {
+			"type": "string",
+			"default": "Learn more about our services"
+		},
+		"backgroundImage": {
+			"type": "string"
+		},
+		"alignment": {
+			"type": "string",
+			"default": "center"
+		}
+	}
+}
