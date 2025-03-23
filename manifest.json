@@ -2,7 +2,7 @@
   "name": "Gutenberg Blocks Library",
   "description": "A collection of custom Gutenberg blocks for WordPress",
   "version": "1.0.0",
-  "lastUpdated": "2025-03-23T13:58:44.531Z",
+  "lastUpdated": "2025-03-23T14:05:05.240Z",
   "baseUrl": "https://codedbyglenden.github.io/gutenberg-components-library",
   "blocks": [
     {
