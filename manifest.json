@@ -1,0 +1,20 @@
+{
+  "name": "Gutenberg Blocks Library",
+  "description": "A collection of custom Gutenberg blocks for WordPress",
+  "version": "1.0.0",
+  "lastUpdated": "2025-03-23T13:58:44.531Z",
+  "baseUrl": "https://codedbyglenden.github.io/gutenberg-components-library",
+  "blocks": [
+    {
+      "name": "hero",
+      "title": "Hero Section",
+      "description": "A full-width hero section with title, subtitle and background image",
+      "paths": {
+        "tsx": "/blocks/hero/block.tsx",
+        "scss": "/blocks/hero/block.scss",
+        "css": "/blocks/hero/block.css",
+        "metadata": "/blocks/hero/metadata.json"
+      }
+    }
+  ]
+}
